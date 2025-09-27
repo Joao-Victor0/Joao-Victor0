@@ -1,7 +1,7 @@
 # 👋 Hello, I'm João Victor  
-##Welcome to my GitHub Profile
-
-🎓 Estudante de **Engenharia de Computação** / Computer Engineering student  
+- Welcome to my GitHub profile
+  
+🎓 Estudante de **Engenharia de Computação** na Universidade Federal do Recôncavo da Bahia / Computer Engineering student at Federal University of Recôncavo da Bahia
 🤖 Apaixonado por projetar e desenvolver soluções de Engenharia em Inteligência Artificial e Ciência de Dados / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science
 🚀 Sempre aprendendo e construindo projetos práticos / Always learning and building practical projects  
 ✨ Dedicado, colaborativo e sempre disposto a aprender. / Dedicated, collaborative, and always eager to learn
@@ -29,6 +29,9 @@
 
 ## 📌 Featured Projects
 
+- 🤖 [Virtual Assistant for Institutional Documents and Information](https://github.com/Joao-Victor0/chatbot-rag-pdf)  
+  🇧🇷 Integração com LLMs e técnica RAG para geração de respostas sobre informações e documentos institucionais.  
+  🇺🇸 Uses LLMs and RAG to provide answers regarding institutional documents and information.
 ---
 
 ## 📊 GitHub Stats  
