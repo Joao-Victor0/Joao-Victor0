@@ -1,5 +1,4 @@
 # 👋 Hello, I'm João Victor  
-- Welcome to my GitHub profile
   
 🎓 Estudante de **Engenharia de Computação** na Universidade Federal do Recôncavo da Bahia / Computer Engineering student at Federal University of Recôncavo da Bahia
 🤖 Apaixonado por projetar e desenvolver soluções de Engenharia em Inteligência Artificial e Ciência de Dados / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science
