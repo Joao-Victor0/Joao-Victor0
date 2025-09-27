@@ -1,10 +1,14 @@
 # 👋 Hello, I'm João Victor  
   
-🎓 Estudante de **Engenharia de Computação** na Universidade Federal do Recôncavo da Bahia / Computer Engineering student at Federal University of Recôncavo da Bahia
-🤖 Apaixonado por projetar e desenvolver soluções de Engenharia em Inteligência Artificial e Ciência de Dados / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science
+🎓 Estudante de **Engenharia de Computação** na Universidade Federal do Recôncavo da Bahia / Computer Engineering student at Federal University of Recôncavo da Bahia  
+
+🤖 Apaixonado por projetar e desenvolver soluções de Engenharia em Inteligência Artificial e Ciência de Dados / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science  
+
 🚀 Sempre aprendendo e construindo projetos práticos / Always learning and building practical projects  
-✨ Dedicado, colaborativo e sempre disposto a aprender. / Dedicated, collaborative, and always eager to learn
-🤝 Valorizo o trabalho em equipe e a troca de conhecimento. / I value teamwork and knowledge sharing
+
+✨ Dedicado, colaborativo e sempre disposto a aprender. / Dedicated, collaborative, and always eager to learn  
+
+🤝 Valorizo o trabalho em equipe e a troca de conhecimento. / I value teamwork and knowledge sharing  
 
 ---
 
