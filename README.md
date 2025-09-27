@@ -1,5 +1,5 @@
 # 👋 Hello, I'm João Victor  
-# Welcome to my GitHub Profile
+##Welcome to my GitHub Profile
 
 🎓 Estudante de **Engenharia de Computação** / Computer Engineering student  
 🤖 Apaixonado por **Inteligência Artificial e Ciência de Dados** / Passionate about **Artificial Intelligence and Data Science**  
@@ -30,8 +30,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor0&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor0&layout=compact&theme=tokyonight)  
 
 ---
 
