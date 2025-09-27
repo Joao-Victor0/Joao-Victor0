@@ -2,8 +2,10 @@
 ##Welcome to my GitHub Profile
 
 🎓 Estudante de **Engenharia de Computação** / Computer Engineering student  
-🤖 Apaixonado por **Inteligência Artificial e Ciência de Dados** / Passionate about **Artificial Intelligence and Data Science**  
+🤖 Apaixonado por projetar e desenvolver soluções de Engenharia em Inteligência Artificial e Ciência de Dados / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science
 🚀 Sempre aprendendo e construindo projetos práticos / Always learning and building practical projects  
+✨ Dedicado, colaborativo e sempre disposto a aprender. / Dedicated, collaborative, and always eager to learn
+🤝 Valorizo o trabalho em equipe e a troca de conhecimento. / I value teamwork and knowledge sharing
 
 ---
 
