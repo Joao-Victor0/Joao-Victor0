@@ -41,11 +41,9 @@
   🇺🇸 Uses LLMs and RAG to provide answers regarding institutional documents and information.
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Victor0&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="João Victor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor0&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p> 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor0&layout=compact&theme=radical)
 
 ---
 
