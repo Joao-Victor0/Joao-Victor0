@@ -42,8 +42,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor0&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor0&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Victor0&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="João Victor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor0&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p> 
 
 ---
 
