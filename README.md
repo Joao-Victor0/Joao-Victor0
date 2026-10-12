@@ -43,7 +43,6 @@
   🇺🇸 Uses LLMs and RAG to provide answers regarding institutional documents and information.
 
 - 🚗 **Em breve / Outros projetos de Robótica e Simulação**
-  🇧🇷 *Espaço para fixar seus projetos de ROS 2, Visão Computacional ou Simulação de Fluidos.*
 
 ---
 
