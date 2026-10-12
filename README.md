@@ -1,17 +1,7 @@
-# 👋 Welcome to my GitHub profile! / Bem-vindo ao meu perfil do GitHub
-
-## 🙋 About Me / Sobre Mim
-**João Victor Lima de Souza**
-
-🎓 Estudante de **Engenharia de Computação** na Universidade Federal do Recôncavo da Bahia / Computer Engineering student at Federal University of Recôncavo da Bahia  
-
-🤖 Apaixonado por projetar e desenvolver soluções de **Engenharia** em **Inteligência Artificial** e **Ciência de Dados** / Passionate about designing and engineering solutions in Artificial Intelligence and Data Science  
-
-🚀 Sempre aprendendo e construindo projetos práticos / Always learning and building practical projects  
-
-✨ Dedicado, colaborativo e sempre disposto a aprender / Dedicated, collaborative, and always eager to learn  
-
-🤝 Valorizo o trabalho em equipe e a troca de conhecimento / I value teamwork and knowledge sharing  
+🎓 Estudante de Engenharia de Computação (UFRB) com base sólida em Ciências Exatas | Computer Engineering student at UFRB
+🤖 Focado em Sistemas Autônomos, Robótica, IA e Processamento de Sinais | Focused on Autonomous Systems, Robotics, AI, and Signal Processing
+💻 Desenvolvendo soluções práticas integrando hardware, software e modelagem matemática | Building practical solutions integrating hardware, software, and mathematical modeling
+🚀 Sempre aprendendo e transformando teoria em projetos reais | Always learning and turning theory into real-world projects
 
 ---
 
